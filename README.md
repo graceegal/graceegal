@@ -1,7 +1,6 @@
 ## Hey there, I'm Gracee! 🤸‍♀️
 
 Welcome to my GitHub! I am a software engineer who values human connection and relationships, maintaining a people-first approach in everything I do. My unique blend of advertising and software engineering experience allows me to create impactful, user-centric applications. 
-You can find some of my favorite projects pinned below ⬇
 
 
 ### 📟  Some of the tech stack I use (and love) the most:
@@ -23,7 +22,7 @@ You can find some of my favorite projects pinned below ⬇
 Here is my [LinkedIn](https://www.linkedin.com/in/graceegallivan/) if you'd like to know more! Feel free to reach out - I'd love to chat.
 
 
-
+## You can find some of my favorite projects pinned below ⬇
 <!--
 **graceegal/graceegal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
