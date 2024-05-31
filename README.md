@@ -4,7 +4,7 @@ Welcome to my GitHub! I am a software engineer who values human connection and r
 You can find some of my favorite projects pinned below ⬇
 
 
-📟  Some of the tech stack I use (and love) the most:
+### 📟  Some of the tech stack I use (and love) the most:
 - Javascript (+ Typescript)
 - React
 - Next.js
