@@ -1,4 +1,4 @@
-## Hi there, I'm Gracee! 🤸‍♀️
+## Hey there, I'm Gracee! 🤸‍♀️
 
 Welcome to my GitHub! I am a software engineer who values human connection and relationships, maintaining a people-first approach in everything I do. My unique blend of advertising and software engineering experience allows me to create impactful, user-centric applications. 
 You can find some of my favorite projects pinned below ⬇
