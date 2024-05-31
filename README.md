@@ -21,8 +21,9 @@ Welcome to my GitHub! I am a software engineer who values human connection and r
 ## 📫 Let’s connect!
 Here is my [LinkedIn](https://www.linkedin.com/in/graceegallivan/) if you'd like to know more! Feel free to reach out - I'd love to chat.
 
+&nbsp;
+### You can find some of my favorite projects pinned below ⬇
 
-## You can find some of my favorite projects pinned below ⬇
 <!--
 **graceegal/graceegal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
