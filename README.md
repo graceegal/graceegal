@@ -3,17 +3,17 @@
 Welcome to my GitHub! I am a software engineer who values human connection and relationships, maintaining a people-first approach in everything I do. My unique blend of advertising and software engineering experience allows me to create impactful, user-centric applications. You can find some of my favorite projects pinned below ⬇
 
 📟 Some of the tech stack I use (and love) the most:
-• Javascript (+ Typescript)
-• React
-• Next.js
-• Node
-• Express
-• PostgreSQL
-• Python/Flask
+- Javascript (+ Typescript)
+- React
+- Next.js
+- Node
+- Express
+- PostgreSQL
+- Python/Flask
 
 ## ⚡ Currently...
-• Leveling up my skills in Typescript ⚡
-• Volunteering on a Next.js app for a stratup that allows cryptocurrency enthusiasts to showcase their ranks of digital crypto wallets 💱
+- Leveling up my skills in Typescript ⚡
+- Volunteering on a Next.js app for a stratup that allows cryptocurrency enthusiasts to showcase their ranks of digital crypto wallets 💱
 
 ## 🤝 Let’s connect!
 📫 Here is my [LinkedIn](https://www.linkedin.com/in/graceegallivan/) if you'd like to know more! Feel free to reach out - I'd love to chat.
