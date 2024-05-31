@@ -1,10 +1,8 @@
-## 👋 Hi there, I'm Gracee! 
+# Hi there, I'm Gracee! 🤠 🤸‍♀️ 
 
-I am a software engineer who values human connection and relationships, maintaining a people-first approach in everything I do. My unique blend of advertising and software engineering experience allows me to create impactful, user-centric applications. 
+Welcome to my GitHub! I am a software engineer who values human connection and relationships, maintaining a people-first approach in everything I do. My unique blend of advertising and software engineering experience allows me to create impactful, user-centric applications. You can find some of my favorite projects pinned below ⬇
 
-As a creative and analytical self-starter with a proven track record of leading projects from ideation to completion, I thrive in dynamic environments.
-
-👩‍💻 Some of the tech stack I use (and love) the most:
+📟 Some of the tech stack I use (and love) the most:
 • Javascript (+ Typescript)
 • React
 • Next.js
@@ -13,10 +11,9 @@ As a creative and analytical self-starter with a proven track record of leading 
 • PostgreSQL
 • Python/Flask
 
-## 💡 Currently...
-• leveling up my skills in Typescript 
-• Volunteering on Next.js
-• 
+## ⚡ Currently...
+• Leveling up my skills in Typescript ⚡
+• Volunteering on a Next.js app for a stratup that allows cryptocurrency enthusiasts to showcase their ranks of digital crypto wallets 💱
 
 ## 🤝 Let’s connect!
 📫 Here is my [LinkedIn](https://www.linkedin.com/in/graceegallivan/) if you'd like to know more! Feel free to reach out - I'd love to chat.
